@@ -1,0 +1,6 @@
+// api for extension ...
+export class pv {
+    tbl = (data, head: Array = null) => {
+        console.table(data); // test in console ...
+    }
+}
